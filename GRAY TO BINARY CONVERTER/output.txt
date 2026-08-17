@@ -1,0 +1,29 @@
+
+## `output.txt`
+
+```text
+4-BIT GRAY TO BINARY CONVERTER SIMULATION OUTPUT
+================================================
+
+Time = 0 | Gray = 0000 | Binary = 0000
+Time = 10 | Gray = 0001 | Binary = 0001
+Time = 20 | Gray = 0011 | Binary = 0010
+Time = 30 | Gray = 0010 | Binary = 0011
+Time = 40 | Gray = 0110 | Binary = 0100
+Time = 50 | Gray = 0111 | Binary = 0101
+Time = 60 | Gray = 0101 | Binary = 0110
+Time = 70 | Gray = 0100 | Binary = 0111
+Time = 80 | Gray = 1100 | Binary = 1000
+Time = 90 | Gray = 1101 | Binary = 1001
+Time = 100 | Gray = 1111 | Binary = 1010
+Time = 110 | Gray = 1110 | Binary = 1011
+Time = 120 | Gray = 1010 | Binary = 1100
+Time = 130 | Gray = 1011 | Binary = 1101
+Time = 140 | Gray = 1001 | Binary = 1110
+Time = 150 | Gray = 1000 | Binary = 1111
+
+================================================
+Simulation completed successfully.
+All 16 Gray code input combinations tested.
+Gray-to-Binary conversion verified.
+================================================
